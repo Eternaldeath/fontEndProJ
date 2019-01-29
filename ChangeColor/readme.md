@@ -28,12 +28,9 @@ It is just a practice , you cannot find it on the chrome application shop , and 
 
 ###### Effect
 
-![1548729669985](C:\Users\23380\AppData\Roaming\Typora\typora-user-images\1548729669985.png)
+![](F:\code\git\fontEndProJ\ChangeColor\images\1548729685928.png)
+
+![](F:\code\git\fontEndProJ\ChangeColor\images\1234.png)
 
 
 
-![1548729685928](C:\Users\23380\AppData\Roaming\Typora\typora-user-images\1548729685928.png)
-
-
-
-![1548729725213](C:\Users\23380\AppData\Roaming\Typora\typora-user-images\1548729725213.png)
