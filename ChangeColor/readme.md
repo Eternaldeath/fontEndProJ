@@ -31,6 +31,7 @@ It is just a practice , you cannot find it on the chrome application shop , and 
 ![点击按钮](images\1548729685928.png)
 
 ![显示效果](images\1234.png)
+![点击按钮](/images/1548729685928.png)
 
 
 
